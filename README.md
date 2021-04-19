@@ -1,3 +1,29 @@
+This is a Gmail clone i have made using react and redux
+
+It uses google authentication for users to log in , make a post using the compose button,open other posts and log out(all other features are aesthetical)
+
+Note: the app does not support one to one mailing instead all mails that are "sent" are posted in a public feed
+
+Technology stack used:
+
+-FrontEnd:
+
+React for the interface
+
+Redux for handling state
+
+Material-ui/core & Material-ui/icons for buttons,avatars and icons
+
+React-hook-form for handling input forms
+
+-Backend:
+Firebase authentication
+
+Firebase firestore for real time storage of the posts
+
+Firebase hosting
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
