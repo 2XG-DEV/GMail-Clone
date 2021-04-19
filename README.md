@@ -1,3 +1,5 @@
+#Intro
+
 This is a Gmail clone i have made using react and redux
 
 It uses google authentication for users to log in , make a post using the compose button,open other posts and log out(all other features are aesthetical)
