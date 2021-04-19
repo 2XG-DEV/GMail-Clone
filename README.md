@@ -1,10 +1,12 @@
-#Intro
+# Intro
 
 This is a Gmail clone i have made using react and redux
 
 It uses google authentication for users to log in , make a post using the compose button,open other posts and log out(all other features are aesthetical)
 
 Note: the app does not support one to one mailing instead all mails that are "sent" are posted in a public feed
+
+Check it out working at : https://gm-clone.web.app/
 
 Technology stack used:
 
